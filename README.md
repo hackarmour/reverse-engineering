@@ -1,4 +1,4 @@
-# Reserse Engineering
+# Reverse Engineering
 
 ## Challenges/Resources
 
