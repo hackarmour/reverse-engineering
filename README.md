@@ -12,3 +12,4 @@
 8. https://tryhackme.com/room/brainpan
 9. https://tryhackme.com/room/malmalintroductory
 10. https://tryhackme.com/room/historyofmalware
+11. https://0x41.cf/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html
